@@ -15,6 +15,8 @@ While making decisions, you balance money, joy and guilt. To win the game ensure
 
 Make your decisions wisely!
 
+--------------------------------------------------------------------------------------------------------------------
+
 This software is licensed under the DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE http://www.wtfpl.net/
 
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
