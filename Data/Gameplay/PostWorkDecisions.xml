@@ -1,0 +1,76 @@
+<PostWorkDecisions>
+
+	<Decision
+		ID = "1"
+		decision = "Drink with friends at the truckers bar"
+		hours = "2"
+		wealth = "-30~-50"
+		happiness = "20"
+		guilt = "-20"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "2"
+		decision = "Watch a movie with your wife (She sucks!)"
+		hours = "3"
+		wealth = "-80~-100"
+		happiness = "-10"
+		guilt = "-60"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "3"
+		decision = "Enjoy solace in your hot tub "
+		hours = "2"
+		wealth = "0"
+		happiness = "10"
+		guilt = "-10"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "4"
+		decision = "Go to the local baptist church to face God"
+		hours = "2"
+		wealth = "-10"
+		happiness = "50"
+		guilt = "-10"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "5"
+		decision = "Gamble at the underground poker club"
+		hours = "2"
+		wealth = "-50~50"
+		happiness = "50"
+		guilt = "20"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "6"
+		decision = "Buy and consume illegal substances"
+		hours = "3"
+		wealth = "-20"
+		happiness = "60"
+		guilt = "30"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "7"
+		decision = "Steal a car, wreck it then just walk away"
+		hours = "3"
+		wealth = "-100"
+		happiness = "80"
+		guilt = "50"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "8"
+		decision = "Proceed to next decisions"
+		hours = "0"
+		wealth = "0"
+		happiness = "0"
+		guilt = "0"
+		color = "0,255,0,255"
+	/>
+
+</PostWorkDecisions>

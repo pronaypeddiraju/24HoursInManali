@@ -1,0 +1,76 @@
+<FoodDecisions>
+
+	<Decision
+		ID = "1"
+		decision = "Grab dinner at a local diner"
+		hours = "2"
+		wealth = "-15~-25"
+		happiness = "30"
+		guilt = "-20"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "2"
+		decision = "Cook a meal and eat healthy at home"
+		hours = "3"
+		wealth = "0"
+		happiness = "10"
+		guilt = "-10"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "3"
+		decision = "Drive down to mama's house for dinner"
+		hours = "1"
+		wealth = "-10"
+		happiness = "20"
+		guilt = "15"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "4"
+		decision = "Hit up the McDonald's drive thru"
+		hours = "1"
+		wealth = "-10"
+		happiness = "-15"
+		guilt = "-20"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "5"
+		decision = "Go eat at iHop because you had a bad day"
+		hours = "1"
+		wealth = "-10"
+		happiness = "-30"
+		guilt = "-30"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "6"
+		decision = "Heat up hot pockets and call it a night"
+		hours = "1"
+		wealth = "-5"
+		happiness = "-20"
+		guilt = "10"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "7"
+		decision = "Hunt trash can because you're life is pathetic"
+		hours = "2"
+		wealth = "0"
+		happiness = "-40"
+		guilt = "-40"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "8"
+		decision = "Proceed to next decisions"
+		hours = "0"
+		wealth = "0"
+		happiness = "0"
+		guilt = "0"
+		color = "0,255,0,255"
+	/>0
+
+</FoodDecisions>

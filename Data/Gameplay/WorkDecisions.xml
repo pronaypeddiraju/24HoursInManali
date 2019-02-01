@@ -1,0 +1,76 @@
+<WorkDecisions>
+
+	<Decision
+		ID = "1"
+		decision = "Work as a cab driver at the tourist spots"
+		hours = "2"
+		wealth = "20~30"
+		happiness = "-20"
+		guilt = "0"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "2"
+		decision = "Work the day shift at local super market"
+		hours = "3"
+		wealth = "60~80"
+		happiness = "-30"
+		guilt = "0"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "3"
+		decision = "Sit at the Old Temple and beg for cash"
+		hours = "1"
+		wealth = "1~30"
+		happiness = "-15"
+		guilt = "0"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "4"
+		decision = "Work the counter at the local bar"
+		hours = "3"
+		wealth = "50~100"
+		happiness = "-25"
+		guilt = "0"
+		color = "255,255,255,255"
+	/>
+	<Decision
+		ID = "5"
+		decision = "Hunt illegally at the forest and sell hide"
+		hours = "5"
+		wealth = "100~250"
+		happiness = "-30"
+		guilt = "20"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "6"
+		decision = "Rob tourists at the Manali Sanctuary"
+		hours = "1"
+		wealth = "10~50"
+		happiness = "-10"
+		guilt = "10"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "7"
+		decision = "Rob Kumar's local electronics store"
+		hours = "8"
+		wealth = "50~600"
+		happiness = "-40"
+		guilt = "30"
+		color = "255,0,0,255"
+	/>
+	<Decision
+		ID = "8"
+		decision = "Proceed to next decisions"
+		hours = "0"
+		wealth = "0"
+		happiness = "0"
+		guilt = "0"
+		color = "0,255,0,255"
+	/>
+
+</WorkDecisions>
