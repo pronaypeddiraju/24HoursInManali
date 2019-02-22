@@ -1,6 +1,6 @@
 # 24HoursInManali
 --------------------------------------------------------------------------------------------------------------------
-The decision making game created using Crap2D and OpenGL based Game Engine
+The decision making game created using Crap2D an OpenGL based Game Engine
 --------------------------------------------------------------------------------------------------------------------
 
 24 Hours in Manali is a 2D text based decision making game. In this game, you play a man in the town of Manali having to survive 24 hours. The game requires you to complete 4 stages of the work day. The stages are:
